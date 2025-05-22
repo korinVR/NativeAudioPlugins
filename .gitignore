@@ -45,3 +45,6 @@ Logs/
 # ctags:
 .tags
 .tags_sorted_by_file
+
+# VSCode
+.vscode/
